@@ -75,6 +75,10 @@ function App() {
         </section>
       )}
 
+      {loading && <p className="empty-state">Carregando dados da planilha...</p>}
+      {error && <p className="empty-state error">{error}</p>}
+      {!loading && <BuildCards cards={cards} />}
+
       {CLASS_VIDEOS[activeClass].length > 0 && (
         <section className="videos">
           <h2 className="section-title">Vídeos</h2>
@@ -92,10 +96,6 @@ function App() {
           </div>
         </section>
       )}
-
-      {loading && <p className="empty-state">Carregando dados da planilha...</p>}
-      {error && <p className="empty-state error">{error}</p>}
-      {!loading && <BuildCards cards={cards} />}
     </div>
   )
 }
