@@ -40,7 +40,7 @@ export const STAFF_SUGESTOES: StaffSugestao[] = [
     analise:
       "Blade é forte — maior dano físico por hit (142.6K~253.5K). Por ser corpo a corpo e sofrer com block (~1/3 do dano), além de ficar exposto por muito tempo se quiser dar os 4 hits, o dano base em condições normais é aceitável. O problema está no topo do gear: sets joia (Tigre, Coelho) + armas 5★ deixam o dano acima do ideal, e o ratio de 1,78× entre o 1º e o 4º hit concentra poder demais num único golpe.",
     sugestao:
-      "Nerf de 10~15% no dano base + reduzir o ratio 1,78× → ~1,5× (baixar o dano do 4º hit). O 4º hit continua sendo o mais forte, mas sem o pico exagerado. O problema não é a classe em si, mas o combo de sets joia + armas 5★. O ajuste mantém o Blade letal, mas com margem para o inimigo escapar.",
+      "Nerf de 10~15% no dano base + reduzir o ratio 1,78× → ~1,5× (baixar o dano do 4º hit). O 4º hit continua sendo o mais forte, mas sem o pico exagerado. O problema não é a classe em si, mas o combo de sets joia + armas 5★. O ajuste mantém o Blade letal, mas com margem para o inimigo escapar.\n\nPós-nerf: avaliar se o ajuste foi satisfatório ou o nerf foi pesado demais.",
   },
   {
     classe: "Ranger",
@@ -50,17 +50,17 @@ export const STAFF_SUGESTOES: StaffSugestao[] = [
     analise:
       "Ranger está forte pelo mesmo motivo do Blade: set Coelho + arma 5★ elevou o dano (Full DEX 5★ chega a 137.9K/hit). O problema é que simplesmente nerfar o dano base puro prejudicaria novos players sem acesso a esse gear e o Ranger é a classe física que mais escala com esses itens. Além disso, o set Leão vai subir o HP geral em breve, o que ainda não é realidade no servidor.",
     sugestao:
-      "Reduzir o dano base em 10~15%. Além disso, atualizar o set Coelho trocando a esquiva dos anéis por ADDOCH — cada anel +20 daria +5% ADDOCH (total +10% com os dois anéis). Isso não compensa o nerf (o Ranger ainda vai perder dano no geral), mas ajuda novos players que ainda não têm arma 5★ a não ficar tão para trás.",
+      "Reduzir o dano base em 10~15%. Além disso, atualizar o set Coelho trocando a esquiva dos anéis por ADDOCH — cada anel +20 daria +5% ADDOCH (total +10% com os dois anéis). Isso não compensa o nerf (o Ranger ainda vai perder dano no geral), mas ajuda novos players que ainda não têm arma 5★ a não ficar tão para trás.\n\nPós-nerf: avaliar se o ajuste foi satisfatório ou o nerf foi pesado demais.",
   },
   {
     classe: "Knight",
-    acao: "Nenhuma (observar com itens full endgame)",
-    motivo: "Tankar e matar seria broken; dano baixo é intencional",
-    prioridade: null,
+    acao: "Nerf de ~3~5% no HP (qdo set Leão estiver acessível)",
+    motivo: "HP muito alto — Knight 5★ não morre para BP Full FOR",
+    prioridade: "Média",
     analise:
-      "Knight está numa situação confortável — maior HP Full VIG (307.8K) como esperado de um tank. O dano baixo (82.1K) é intencional: Knight pode matar players sozinho, mas não deve ser uma ameaça gigante solo (potencial de kill inferior ao Blade). Buffar o dano agora arriscaria criar uma classe que tanka e mata muito bem e que poderia ser difícil de balancear.",
+      "Knight está com muito HP — 307.8K com item de tank 3★, e com arma 5★ não morre para um Billposter Full FOR com os dados atuais. O dano baixo (82.1K) é intencional para não criar uma classe que tanka e mata, mas o HP atual está acima do ideal.",
     sugestao:
-      "Nenhuma por enquanto. Observar se não vai ficar muito forte com itens full endgame no futuro.",
+      "Nerf de ~3~5% no HP quando o set Leão estiver mais acessível, para trazer a classe a um patamar mais coerente.",
   },
   {
     classe: "Psykeeper",
