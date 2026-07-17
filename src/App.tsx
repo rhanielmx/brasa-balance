@@ -66,7 +66,7 @@ function App() {
             <span className="badge">EM CONSTRUÇÃO</span>
           )}
           <NavLink
-            to="/sugestoes"
+            to={isStaff ? "/pvp" : "/sugestoes"}
             end
             className={({ isActive }) =>
               `header-link${isActive ? " active" : ""}`
