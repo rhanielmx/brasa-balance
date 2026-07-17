@@ -39,7 +39,7 @@ As sugestões seguem três prioridades, nesta ordem:
 
 Asal tem o maior cooldown ofensivo do jogo (15s) — o dano precisa ser alto para justificar a janela de espera. O BP Full VIG (197.5K) não mata ninguém Full VIG, 100 FOR (234.7K) mata Jester, Full FOR (312.9K) mata Knight por margem estreita. O problema é potencial futuro: Billposter coloca MP em todos os 7 slots, e com awakes de 800MP por slot (7×800=5.600 MP base só em awakes) o dano pode disparar para níveis que matam qualquer Full VIG sem chance de resposta, porém esses awakes elevados ainda estão muito longe da realidade do servidor. Com awakes realistas (450~650MP) o equilíbrio já está bom.
 
-**Sugestão:** Pensar em uma forma de fazer o dano do Asal crescer menos conforme os awakes de MP ficam muito altos. Como o Billposter usa MP em todos os 7 slots de awake, quando todos esses awakes forem altos ele vai escalar muito mais que qualquer outra classe — mas isso ainda está longe de acontecer no servidor. Seria uma medida para evitar que, no futuro, o Billposter fique desbalanceado e precise levar um nerf pesado de uma vez.
+**Ponto de atenção:** O Billposter usa MP em todos os 7 slots de awake. Quando todos esses awakes forem altos, ele vai escalar muito mais que qualquer outra classe — mas isso ainda está longe de acontecer no servidor. Fica o registro para estudos futuros: se um dia o servidor chegar nesse ponto, talvez seja necessário pensar em alguma forma de fazer o dano crescer menos conforme o MP fica muito alto, para evitar um nerf pesado de uma vez.
 
 ---
 
@@ -65,7 +65,7 @@ O problema não é a classe em si, mas o combo de sets joia + armas 5★. O ajus
 
 Ranger está forte pelo mesmo motivo do Blade: set Coelho + arma 5★ elevou o dano (Full DEX 5★ chega a 137.9K/hit). O problema é que simplesmente nerfar o dano base puro prejudicaria novos players sem acesso a esse gear e o Ranger é a classe física que mais escala com esses itens. Além disso, o set Leão vai subir o HP geral em breve, o que ainda não é realidade no servidor.
 
-**Sugestão:** Reduzir o dano base em 10~15% e compensar atualizando o set Coelho — trocar a esquiva dos anéis por ADDOCH. Cada anel +20 daria +5% ADDOCH (total +10% com os dois anéis) o que seria de grande ajuda para novos players que ainda não possuem arma 5★.
+**Sugestão:** Reduzir o dano base em 10~15%. Além disso, atualizar o set Coelho trocando a esquiva dos anéis por ADDOCH — cada anel +20 daria +5% ADDOCH (total +10% com os dois anéis). Isso não compensa o nerf (o Ranger ainda vai perder dano no geral), mas ajuda novos players que ainda não têm arma 5★ a não ficar tão para trás.
 
 ---
 
@@ -107,7 +107,7 @@ Ringmaster é um mago single-target (como Psykeeper), com Queda da Estrela de co
 
 | Classe | Ação | Motivo | Prio |
 |--------|------|--------|------|
-| **Billposter** | Analisar diminishing returns no scaling de MP para o futuro | MP em 7 slots escala muito mais que qualquer classe; longe da realidade hoje | 🟢 Baixa |
+| **Billposter** | Ponto de atenção — estudar scaling de MP no futuro | MP em 7 slots escala muito mais que qualquer classe; longe da realidade hoje | 🟢 Baixa |
 | **Jester** | Nenhuma | Referência de balanceamento | — |
 | **Blade** | Nerf de ~10% no dano base + reduzir ratio 1,78× → ~1,5× | Sets joia + 5★ deixaram físicas fortes; 4º hit concentra poder demais | 🟡 Média |
 | **Ranger** | Nerf de ~10% no dano base + anéis do set Coelho: esquiva → ADDOCH | Classe física que mais escala com Coelho + 5★; nerf puro prejudicaria novos players | 🟡 Média |
