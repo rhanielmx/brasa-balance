@@ -1,6 +1,6 @@
 # Brasa Balance
 
-Vitrine de balanceamento para o servidor **Brasa Flyff** — exibe combinações de HP e dano por classe, build e awakes de equipamento.
+Vitrine de balanceamento para o servidor **Brasa MMO** — exibe combinações de HP e dano por classe, build e awakes de equipamento.
 
 ## Funcionalidades
 
