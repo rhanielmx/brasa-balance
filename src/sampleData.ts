@@ -5,7 +5,7 @@ export const SAMPLE_DATA: Record<Classe, BuildCard[]> = {
     {
       build: "Full Vigor",
       entries: [
-        { tank: { estrelas: "3★", awakes: "Vigor +28", hp: "280k" }, dano: { estrelas: "3★", awakes: "MP +500", dmg: "220k" }, obs: "sem diamante" },
+        { tank: { estrelas: "3★", awakes: "Vigor +28", hp: "300k" }, dano: { estrelas: "3★", awakes: "MP +500", dmg: "220k" }, obs: "sem diamante" },
         { tank: { estrelas: "5★", awakes: "Vigor +44", hp: "380k" }, dano: { estrelas: "5★", awakes: "MP +800", dmg: "350k" }, obs: "" },
       ],
     },
