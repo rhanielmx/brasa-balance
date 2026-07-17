@@ -67,13 +67,15 @@ Ranger está forte pelo mesmo motivo do Blade: set Coelho + arma 5★ elevou o d
 
 **Sugestão:** Reduzir o dano base em 10~15%. Além disso, atualizar o set Coelho trocando a esquiva dos anéis por ADDOCH — cada anel +20 daria +5% ADDOCH (total +10% com os dois anéis). Isso não compensa o nerf (o Ranger ainda vai perder dano no geral), mas ajuda novos players que ainda não têm arma 5★ a não ficar tão para trás.
 
+> **Pós-nerf:** Os ajustes no dano do Blade e do Ranger devem ficar sob análise depois de aplicados para avaliar se o nerf não foi alto demais.
+
 ---
 
 ### Knight
 
-Knight está numa situação confortável — maior HP Full VIG (307.8K) como esperado de um tank. O dano baixo (82.1K) é intencional: Knight pode matar players sozinho, mas não deve ser uma ameaça gigante solo (potencial de kill inferior ao Blade). Buffar o dano agora arriscaria criar uma classe que tanka e mata muito bem e que poderia ser difícil de balancear.
+Knight está com muito HP — 307.8K com item de tank 3★, e com arma 5★ não morre para um Billposter Full FOR com os dados atuais. O dano baixo (82.1K) é intencional para não criar uma classe que tanka e mata, mas o HP atual está acima do理想.
 
-**Sugestão:** Nenhuma por enquanto. Observar se não vai ficar muito forte com itens full endgame no futuro.
+**Sugestão:** Nerf de ~3~5% no HP para trazer a classe a um patamar mais coerente.
 
 ---
 
@@ -111,7 +113,7 @@ Ringmaster é um mago single-target (como Psykeeper), com Queda da Estrela de co
 | **Jester** | Nenhuma | Referência de balanceamento | — |
 | **Blade** | Nerf de ~10% no dano base + reduzir ratio 1,78× → ~1,5× | Sets joia + 5★ deixaram físicas fortes; 4º hit concentra poder demais | 🟡 Média |
 | **Ranger** | Nerf de ~10% no dano base + anéis do set Coelho: esquiva → ADDOCH | Classe física que mais escala com Coelho + 5★; nerf puro prejudicaria novos players | 🟡 Média |
-| **Knight** | Nenhuma (observar com itens full endgame) | Tankar e matar seria broken; dano baixo é intencional | — |
+| **Knight** | Nerf de ~3~5% no HP | HP muito alto — Knight 5★ não morre para BP Full FOR | 🟡 Média |
 | **Psykeeper** | Nenhuma agora — provavelmente vai precisar de nerf quando set Leão estiver acessível | Set Leão ainda não acessível; gear topado é raro | 🟢 Baixa |
 | **Elementor** | Nerf de ~4% no HP (qdo set Leão chegar) + Windfield: slow flat → percentual (-20%) | Kit defensivo não justifica HP alto; slow percentual dá mais controle sem aumentar dano | 🟢 Baixa |
 | **Ringmaster** | Nenhuma | Suporte bem calibrado; HC sem CD compensa dano baixo | — |
